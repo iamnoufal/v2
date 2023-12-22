@@ -1,10 +1,13 @@
-# Noufal Rahman's Portfolio
+# Noufal Rahman
 
-Noufal Rahman
-21f1005287@student.onlinedegree.iitm.ac.in
+## Welcome to my portfolio repository
 
-Stack used: ReactJS, MUI
+The website is hosted at [https://v2.noufal.dev](https://v2.noufal.dev)
 
-Preview Link: https://preview.noufal.me
+This is the first version of my Portfolio. There are [v1](https://v1.noufal.dev) and [v3](https://noufal.dev) which is my current portfolio design. You can take a look at those as well!
 
-Repository link: https://github.com/Rahman24/portfolio-react
+Take a look at my [GitHub Profile](https://github.com/iamnoufal) or my [Projects](https://github.com/iamnoufal?tab=repositories)
+
+This website uses React JS with Material UI
+
+Go to [License](LICENSE)
